@@ -33,7 +33,7 @@ if ($username=="admin"&& $pw=="1234") {
 		<meta charset="UTF-8">
 		<title>Document</title>
 	</head>
-	<body>
+	<body><p>mua xuân đang đến đúng ko ha</p>
 			<h1>NHAP LAI!!!</h1>
 			<form action="logout.php">
 			<button type="submit"  > NHAP LAI</button>
