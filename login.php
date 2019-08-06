@@ -37,6 +37,7 @@ if ($username=="admin"&& $pw=="1234") {
 			<h1>NHAP LAI!!!</h1>
 			<form action="logout.php">
 			<button type="submit"  > NHAP LAI</button>
+			<p>theeeeeeeeeeeeeeeeeee</p>
 			</form>
 	</body>
 	</html>
